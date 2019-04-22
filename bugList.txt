@@ -1,0 +1,4 @@
+//bugList.txt
+1. isEmpty always returns true
+2. removeFront doesn't work properly.  It doesn't remove or decrement.  This could be due to the pointer handling
+3. Same issue with removeBack.
